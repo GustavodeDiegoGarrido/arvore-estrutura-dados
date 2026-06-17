@@ -1,6 +1,6 @@
 # Sistema de Organização de Municípios e Regiões
 
-## Descrição
+## Integrantes
 
 Herbert Duarte (202311190025@ifba.edu.br)
 
